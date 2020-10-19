@@ -1,0 +1,39 @@
+{
+  "name": "color-palettes",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "keywords": [
+    "palettes",
+    "styled-components",
+    "color",
+    "chakra-ui",
+    "material-ui"
+  ],
+  "description": "Color palettes for your project in styled-components",
+  "author": {
+    "email": "pedroca21265@gmail.com",
+    "name": "Pedro Henrique",
+    "url": "https://pedrinholemes.web.app"
+  },
+  "private": false,
+  "repository": "https://github.com/pedrinholemes/color-palettes",
+  "license": "MIT",
+  "scripts": {
+    "build": "yarn clean && yarn build:tsc",
+    "build:tsc": "tsc",
+    "clean": "rm -rf ./dist"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.5.0",
+    "@typescript-eslint/parser": "^4.5.0",
+    "eslint": "^7.11.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "ts-node-dev": "^1.0.0",
+    "typescript": "^4.0.3"
+  }
+}
