@@ -1,6 +1,6 @@
 {
   "name": "trend-colors",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "keywords": [
@@ -17,7 +17,8 @@
     "url": "https://pedrinholemes.web.app"
   },
   "private": false,
-  "repository": "https://github.com/pedrinholemes/color-palettes",
+  "repository": "https://github.com/pedrinholemes/trend-colors",
+  "homepage": "https://github.com/pedrinholemes/trend-colors#readme",
   "license": "MIT",
   "scripts": {
     "build": "yarn clean && yarn build:tsc",
