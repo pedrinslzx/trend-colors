@@ -1,4 +1,4 @@
-const chakraUiPallet = {
+const chakraUiPalette = {
   black: '#000000',
   white: '#FFFFFF',
 
@@ -237,4 +237,4 @@ const chakraUiPallet = {
   }
 }
 
-export default chakraUiPallet
+export default chakraUiPalette

@@ -1,4 +1,4 @@
-import MaterialUiPallet from './material-ui'
-import ChakraUiPallet from './chakra-ui'
+import MaterialUiPalette from './material-ui'
+import ChakraUiPalette from './chakra-ui'
 
-export { MaterialUiPallet, ChakraUiPallet }
+export { MaterialUiPalette, ChakraUiPalette }
