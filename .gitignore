@@ -4,3 +4,4 @@ package-lock.json
 dist/
 out/
 build/
+yarn-error.log

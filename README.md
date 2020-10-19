@@ -1,12 +1,12 @@
-# Welcome to Color Palettes 👋
+# Welcome to Trend Colors 👋
 
-[![Version](https://img.shields.io/github/package-json/v/pedrinholemes/color-palettes?cacheSeconds=36000)](package.json)
+[![Version](https://img.shields.io/github/package-json/v/pedrinholemes/trend-colors?cacheSeconds=36000)](package.json)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Twitter: pedrinho_lemes](https://img.shields.io/twitter/follow/pedrinho_lemes.svg?style=social)](https://twitter.com/pedrinho_lemes)
 
 > Color palettes for your project with react and styled-components
 
-### 🏠 [Homepage](https://github.com/pedrinholemes/color-pallets)
+### 🏠 [Homepage](https://github.com/pedrinholemes/trend-colors)
 
 ## Author
 
@@ -20,7 +20,7 @@
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check [issues page](https://github.com/pedrinholemes/color-pallets/issues). You can also take a look at the [contributing guide](#).
+Feel free to check [issues page](https://github.com/pedrinholemes/trend-colors/issues). You can also take a look at the [contributing guide](#).
 
 ## Show your support
 

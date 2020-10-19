@@ -1,6 +1,6 @@
 {
-  "name": "color-palettes",
-  "version": "1.0.0",
+  "name": "trend-colors",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "keywords": [
