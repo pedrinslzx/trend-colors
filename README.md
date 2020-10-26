@@ -8,6 +8,40 @@
 
 ### 🏠 [Homepage](https://github.com/pedrinholemes/trend-colors)
 
+## How to use
+
+### styles/theme.js
+
+```js
+import { MaterialUiPalette, ChakraUiPalette } from "trend-colors";
+
+const theme = {
+  ...ChakraUiPalette,
+  primary: "#83c9f4",
+  secondary: "#6f73d2",
+  fore: "#1d2135",
+  back: "#d9f0ff",
+};
+export default theme;
+```
+
+### App.js
+
+```jsx
+import { ThemeProvider } from "styled-components";
+import theme from "./styles/theme";
+import GlobalStyle from "./styles/global";
+
+function App({ children }) {
+  return (
+    <ThemeProvider theme={theme}>
+      <GlobalStyle />
+      {children}
+    </ThemeProvider>
+  );
+}
+```
+
 ## Author
 
 👤 **Pedro Henrique**
